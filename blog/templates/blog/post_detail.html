@@ -2,17 +2,38 @@
 <html>
 <head>
     <title>DEV</title>
+    <style>
+        .container {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(235, 16, 16);
+    
+    
+    }
+    .moh{
+      font:200px
+    }
+    </style>
 </head>
     <body>
-        <h5>{{post.Title}}</h5>
+        <div class="container">
+            <h1>DETAI LPOST</h1>
+        </div>
+        <br>
+       <button class="container"><a href="{% url 'blog:edit' post.id %}">EDITPOST</a></button> 
+       <button class="container"><a href="{% url 'blog:delete' post.id %}">DELETEPOST</a></button>
+        <hr>
+
+        <h2>{{post.Title}}</h2>
 
         <hr>
-        <h5>{{post.create_at}}</h5>
+        <h3>{{post.create_at}}</h3>
         
         
         <hr>
         <img href='https://res.cloudinary.com/practicaldev/image/fetch/s--RvPyAbSK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h1mncbbgiucmgrogqrok.jpg' alt='dev-to-uploads'>
-        <h5>{{post.contant}}</h5>
+        <h3>{{post.contant}}</h3>
         
+
     </body>
 </html>

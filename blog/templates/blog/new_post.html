@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DEV</title>
+    <style>
+        .container {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(235, 16, 16);
+    
+    
+    }
+    .moh{
+      font:200px
+    }
+    </style>
+</head>
+    <body>
+        <div>
+            <h2  class="container">NEWPOST</h2>
+            <hr>
+        <br><br><br>
+        </div>
+        
+
+
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{form}}
+            <input type="submit" value="CREATE_NEW_POST">
+        </form>
+
+    </body>
+</html>
+
+
+
+
+

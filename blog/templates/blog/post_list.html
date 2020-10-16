@@ -1,7 +1,37 @@
-<h2>postlist</h2>
 
 
-{% for post in object_list %}
-  <a href="{% url 'blog:detail' post.id %}"><h4>{{post}}</h4> </a> 
-{% endfor %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>DEV</title>
+  </head>
+  <style>
+    .container {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(235, 16, 16);
+    margin-bottom: 20px;
+    
+    
+    }
+    .moh{
+      font:200px
+    }
+  
+  </style>
+  <body>
+
+    <div class='container'>
+      <h2 class="moh" >DEV</h2>
+    </div>
+    <button class="container"><a href="{% url 'blog:newpost' %}">Write a Post</a></button>
+    <hr>
+    
+    {% for post in object_list %}
+      <a href="{% url 'blog:detail' post.id %}"><h4>{{post}}</h4> </a> 
+    {% endfor %}
+  </body>
+</html>
+
 

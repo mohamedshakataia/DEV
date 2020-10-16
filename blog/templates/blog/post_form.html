@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DEV</title>
+    <style>
+        .container {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(235, 16, 16);
+    margin-bottom: 10px;
+    
+    
+    }
+    </style>
+</head>
+    <body>
+                
+        <h2 class="container">EDITPOST</h2>
+
+        <br><hr><br><br>
+
+
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{form}}
+            <br><br>
+            <input type="submit" value="CREATE_EDIT_POST">
+        </form>
+
+
+    </body>
+</html>
+
+
+
+
+
+
+
