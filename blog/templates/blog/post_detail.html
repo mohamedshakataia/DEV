@@ -13,17 +13,41 @@
     .moh{
       font:200px
     }
+    a:link ,a:visited{
+      
+      padding: 15px;
+      display: inline-block;
+      text-decoration: none;
+    }
+    a:hover ,a:active{
+      background-color:deepskyblue;
+      
+    }
+    .card-body{
+      display: flex;
+      text-align: center;
+
+    }
+    .card-img-top{
+      height: 300px;
+      width: 600px;
+      margin-left:400px;
+    }
     </style>
 </head>
     <body>
+
         <div class="container">
             <h1>DETAI LPOST</h1>
         </div>
-        <br>
-       <button class="container"><a href="{% url 'blog:edit' post.id %}">EDITPOST</a></button> 
-       <button class="container"><a href="{% url 'blog:delete' post.id %}">DELETEPOST</a></button>
-        <hr>
 
+        <div class="card" style="width: 500px;">
+            <a href="{% url 'blog:edit' post.id %}">EDITPOST</a>
+            <br><br>
+        <div class="card-body">
+            <a href="{% url 'blog:delete' post.id %}">DELETEPOST</a>
+        </div>
+            
         <h2>{{post.Title}}</h2>
 
         <hr>
@@ -31,8 +55,16 @@
         
         
         <hr>
-        <img href='https://res.cloudinary.com/practicaldev/image/fetch/s--RvPyAbSK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h1mncbbgiucmgrogqrok.jpg' alt='dev-to-uploads'>
+        <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--RvPyAbSK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h1mncbbgiucmgrogqrok.jpg' alt='dev-to-uploads'>
         <h3>{{post.contant}}</h3>
+        
+
+
+
+
+
+
+
         
 
     </body>
