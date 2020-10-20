@@ -44,10 +44,9 @@
         <div class="card" style="width: 500px;">
             <a href="{% url 'blog:edit' post.id %}">EDITPOST</a>
             <br><br>
-        <div class="card-body">
-            <a href="{% url 'blog:delete' post.id %}">DELETEPOST</a>
-        </div>
-            
+            <form action="{% url 'blog:delete' post.id %}" method="post">{% csrf_token %} 
+              <input type="submit" value="Delete"> 
+          </form> 
         <h2>{{post.Title}}</h2>
 
         <hr>
