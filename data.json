@@ -1,0 +1,1824 @@
+{
+    "breadcrumbs": [
+        {
+            "name": "الإلكترونيات والموبايلات",
+            "code": "electronics-and-mobiles"
+        },
+        {
+            "name": "الكمبيوتر وملحقاته",
+            "code": "electronics-and-mobiles/computers-and-accessories"
+        },
+        {
+            "name": "أجهزة التابلت",
+            "code": "electronics-and-mobiles/computers-and-accessories/tablets"
+        }
+    ],
+    "navPills": [
+        {
+            "name": "أجهزة التابلت",
+            "code": "electronics-and-mobiles/computers-and-accessories",
+            "isSelected": true,
+            "filter": "category"
+        },
+        {
+            "name": "أبل",
+            "code": "apple",
+            "filter": "brand"
+        },
+        {
+            "name": "هواوي",
+            "code": "huawei",
+            "filter": "brand"
+        },
+        {
+            "name": "سامسونج",
+            "code": "samsung",
+            "filter": "brand"
+        }
+    ],
+    "nbHits": 464,
+    "nbPages": 10,
+    "facets": [
+        {
+            "code": "is_fbn",
+            "name": "الشحن بواسطة",
+            "type": "bool",
+            "data": [
+                {
+                    "name": "لا",
+                    "code": "0",
+                    "count": 118
+                },
+                {
+                    "name": "نعم",
+                    "code": "1",
+                    "count": 346
+                }
+            ]
+        },
+        {
+            "code": "category",
+            "name": "الفئة",
+            "type": "category",
+            "data": [
+                {
+                    "name": "الكمبيوتر وملحقاته",
+                    "id_category": 10161,
+                    "id_parent": 10168,
+                    "sort_key": 20,
+                    "code": "electronics-and-mobiles/computers-and-accessories",
+                    "count": 464
+                },
+                {
+                    "name": "الإلكترونيات والموبايلات",
+                    "id_category": 10168,
+                    "id_parent": null,
+                    "sort_key": 50000,
+                    "code": "electronics-and-mobiles",
+                    "count": 464
+                },
+                {
+                    "name": "أجهزة التابلت",
+                    "id_category": 27712,
+                    "id_parent": 10161,
+                    "sort_key": 20,
+                    "code": "electronics-and-mobiles/computers-and-accessories/tablets",
+                    "count": 464
+                }
+            ]
+        },
+        {
+            "code": "brand",
+            "name": "الماركة",
+            "type": "brand",
+            "data": [
+                {
+                    "name": "أبل",
+                    "code": "apple",
+                    "count": 96
+                },
+                {
+                    "name": "هواوي",
+                    "code": "huawei",
+                    "count": 36
+                },
+                {
+                    "name": "سامسونج",
+                    "code": "samsung",
+                    "count": 25
+                },
+                {
+                    "name": "لينوفو",
+                    "code": "lenovo",
+                    "count": 17
+                },
+                {
+                    "name": "أتتش",
+                    "code": "atouch",
+                    "count": 78
+                },
+                {
+                    "name": "لينوسد",
+                    "code": "lenosed",
+                    "count": 37
+                },
+                {
+                    "name": "إس كولور",
+                    "code": "s_color",
+                    "count": 29
+                },
+                {
+                    "name": "سي آيديا",
+                    "code": "c_idea",
+                    "count": 20
+                },
+                {
+                    "name": "هيتز",
+                    "code": "heatz",
+                    "count": 19
+                },
+                {
+                    "name": "مي وان",
+                    "code": "mione",
+                    "count": 16
+                },
+                {
+                    "name": "جي تايد",
+                    "code": "g_tide",
+                    "count": 12
+                },
+                {
+                    "name": "Epad",
+                    "code": "epad",
+                    "count": 10
+                },
+                {
+                    "name": "إكسيد",
+                    "code": "exceed",
+                    "count": 10
+                },
+                {
+                    "name": "وين تاتش",
+                    "code": "wintouch",
+                    "count": 10
+                },
+                {
+                    "name": "آي لايف",
+                    "code": "ilife",
+                    "count": 9
+                },
+                {
+                    "name": "ألكاتل",
+                    "code": "alcatel",
+                    "count": 7
+                },
+                {
+                    "name": "جي تاب",
+                    "code": "g_tab",
+                    "count": 6
+                },
+                {
+                    "name": "مترو",
+                    "code": "metro",
+                    "count": 5
+                },
+                {
+                    "name": "ديسكافر",
+                    "code": "discover",
+                    "count": 4
+                },
+                {
+                    "name": "جيتوم",
+                    "code": "jettom",
+                    "count": 4
+                },
+                {
+                    "name": "كالتاتش",
+                    "code": "calltouch",
+                    "count": 3
+                },
+                {
+                    "name": "إكستريم",
+                    "code": "extreme",
+                    "count": 3
+                },
+                {
+                    "name": "آي لايف",
+                    "code": "i_life",
+                    "count": 3
+                },
+                {
+                    "name": "يونيون تاتش",
+                    "code": "union_touch",
+                    "count": 2
+                },
+                {
+                    "name": "بريف",
+                    "code": "brave",
+                    "count": 1
+                },
+                {
+                    "name": "جي تايد إكستريم",
+                    "code": "g_tide_extreme",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "code": "price",
+            "name": "السعر",
+            "type": "price",
+            "data": {
+                "min": 111,
+                "max": 7399
+            }
+        },
+        {
+            "code": "tablet_screen_size",
+            "name": "حجم شاشة التابلت",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 287,
+                    "code": "7_7_9_inches",
+                    "name": "7 - 7.9 بوصة"
+                },
+                {
+                    "count": 20,
+                    "code": "8_8_9_inches",
+                    "name": "8 - 8.9 بوصة"
+                },
+                {
+                    "count": 14,
+                    "code": "9_9_9_inches",
+                    "name": "9 - 9.9 بوصة"
+                },
+                {
+                    "count": 103,
+                    "code": "10_10_9_inches",
+                    "name": "10 - 10.9 بوصة"
+                },
+                {
+                    "count": 39,
+                    "code": "11_inches_above",
+                    "name": "أكبر من 11 بوصة"
+                }
+            ]
+        },
+        {
+            "code": "new_arrivals",
+            "name": "وصل حديثاً",
+            "type": "multiselect",
+            "data": [
+                {
+                    "name": "آخر 7 أيام",
+                    "code": "7_days",
+                    "count": 14
+                },
+                {
+                    "name": "آخر 30 يوماً",
+                    "code": "30_days",
+                    "count": 31
+                },
+                {
+                    "name": "آخر 60 يوماً",
+                    "code": "60_days",
+                    "count": 55
+                }
+            ]
+        },
+        {
+            "code": "mobile_ram_size",
+            "name": "حجم ذاكرة الوصول العشوائي",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 29,
+                    "code": "upto_512_mb",
+                    "name": "يصل إلى 512 ميجابايت"
+                },
+                {
+                    "count": 159,
+                    "code": "1_gb",
+                    "name": "1 جيجابايت"
+                },
+                {
+                    "count": 138,
+                    "code": "2_gb",
+                    "name": "2 جيجابايت"
+                },
+                {
+                    "count": 37,
+                    "code": "3_gb",
+                    "name": "3 جيجابايت"
+                },
+                {
+                    "count": 21,
+                    "code": "4_gb",
+                    "name": "4 جيجابايت"
+                },
+                {
+                    "count": 42,
+                    "code": "6_gb",
+                    "name": "6 جيجابايت"
+                },
+                {
+                    "count": 2,
+                    "code": "8_gb_more",
+                    "name": "8 جيجابايت وأكثر"
+                }
+            ]
+        },
+        {
+            "code": "mobile_battery_capacity",
+            "name": " حجم البطارية",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 6,
+                    "code": "1000_1999_mah",
+                    "name": "1000 - 1999 مللي أمبير"
+                },
+                {
+                    "count": 88,
+                    "code": "2000_2999_mah",
+                    "name": "2000 - 2999 مللي أمبير"
+                },
+                {
+                    "count": 109,
+                    "code": "3000_3999_mah",
+                    "name": "3000 - 3999 مللي أمبير"
+                },
+                {
+                    "count": 21,
+                    "code": "4000_4999_mah",
+                    "name": "4000 - 4999 مللي أمبير"
+                },
+                {
+                    "count": 84,
+                    "code": "5000_mah_above",
+                    "name": "5000 مللي أمبير فأكثر"
+                }
+            ]
+        },
+        {
+            "code": "primary_camera",
+            "name": "الكاميرا الأساسية",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 150,
+                    "code": "upto_2_9_mp",
+                    "name": "تصل إلى 2.9 ميجا بكسل"
+                },
+                {
+                    "count": 104,
+                    "code": "5_7_9_mp",
+                    "name": "5 - 7.9ميجا بكسل"
+                },
+                {
+                    "count": 101,
+                    "code": "8_9_9_mp",
+                    "name": "8 - 9.9 ميجا بكسل"
+                },
+                {
+                    "count": 1,
+                    "code": "10_12_9_mp",
+                    "name": "10 - 12.9 ميجا بكسل"
+                },
+                {
+                    "count": 14,
+                    "code": "13_14_9_mp",
+                    "name": "13 - 14.9 ميجا بكسل"
+                },
+                {
+                    "count": 2,
+                    "code": "15_mp_above",
+                    "name": "15ميجا بكسل فما فوق"
+                }
+            ]
+        },
+        {
+            "code": "secondary_camera",
+            "name": "دقة الكاميرا الثانوية ",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 242,
+                    "code": "upto_2_9_mp",
+                    "name": "تصل إلى 2.9 ميجا بكسل"
+                },
+                {
+                    "count": 92,
+                    "code": "5_7_9_mp",
+                    "name": "5 - 7.9ميجا بكسل"
+                },
+                {
+                    "count": 21,
+                    "code": "8_9_9_mp",
+                    "name": "8 - 9.9 ميجا بكسل"
+                }
+            ]
+        },
+        {
+            "code": "operating_system",
+            "name": "نظام التشغيل",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 365,
+                    "code": "android",
+                    "name": "أندرويد"
+                },
+                {
+                    "count": 96,
+                    "code": "ios",
+                    "name": "IOS"
+                },
+                {
+                    "count": 1,
+                    "code": "windows",
+                    "name": "ويندوز"
+                }
+            ]
+        },
+        {
+            "code": "sim_count",
+            "name": "عدد شريحة Sim",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 212,
+                    "code": "no_sim_card",
+                    "name": "بدون بطاقة هاتف"
+                },
+                {
+                    "count": 120,
+                    "code": "dual_sim",
+                    "name": "مزدوج الشريحة"
+                },
+                {
+                    "count": 119,
+                    "code": "single_sim",
+                    "name": "شريحة هاتف"
+                }
+            ]
+        },
+        {
+            "code": "colour_family",
+            "name": "عائلة اللون",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 77,
+                    "code": "gold",
+                    "name": "ذهبي"
+                },
+                {
+                    "count": 66,
+                    "code": "grey",
+                    "name": "رمادي"
+                },
+                {
+                    "count": 60,
+                    "code": "multicolour",
+                    "name": "متعدد الألوان"
+                },
+                {
+                    "count": 59,
+                    "code": "black",
+                    "name": "أسود"
+                },
+                {
+                    "count": 55,
+                    "code": "silver",
+                    "name": "فضي"
+                },
+                {
+                    "count": 48,
+                    "code": "blue",
+                    "name": "أزرق"
+                },
+                {
+                    "count": 23,
+                    "code": "pink",
+                    "name": "وردي"
+                },
+                {
+                    "count": 23,
+                    "code": "white",
+                    "name": "أبيض"
+                },
+                {
+                    "count": 19,
+                    "code": "red",
+                    "name": "أحمر"
+                },
+                {
+                    "count": 10,
+                    "code": "green",
+                    "name": "أخضر"
+                },
+                {
+                    "count": 9,
+                    "code": "purple",
+                    "name": "بنفسجي"
+                },
+                {
+                    "count": 6,
+                    "code": "yellow",
+                    "name": "أصفر"
+                },
+                {
+                    "count": 5,
+                    "code": "orange",
+                    "name": "برتقالي"
+                },
+                {
+                    "count": 4,
+                    "code": "brown",
+                    "name": "بني"
+                }
+            ]
+        },
+        {
+            "code": "sim_type",
+            "name": "نوع الشريحة",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 102,
+                    "code": "nano_sim",
+                    "name": "بطاقة SIM نانو"
+                },
+                {
+                    "count": 84,
+                    "code": "no_sim_card",
+                    "name": "بدون بطاقة هاتف"
+                },
+                {
+                    "count": 77,
+                    "code": "sim_standard",
+                    "name": "بطاقة SIM (قياسية)"
+                },
+                {
+                    "count": 47,
+                    "code": "micro_sim",
+                    "name": "بطاقة SIM مايكرو"
+                }
+            ]
+        },
+        {
+            "code": "charging_type",
+            "name": "نوع الشحن",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 177,
+                    "code": "micro_usb",
+                    "name": "Micro USB"
+                },
+                {
+                    "count": 70,
+                    "code": "type_c",
+                    "name": "نوع C"
+                },
+                {
+                    "count": 32,
+                    "code": "lightning_port",
+                    "name": "منفذ كابل Lightning"
+                },
+                {
+                    "count": 9,
+                    "code": "micro_usb_to_usb",
+                    "name": "من كابل مايكرو USB إلى USB"
+                },
+                {
+                    "count": 3,
+                    "code": "lightning_to_usb",
+                    "name": "كابل  لايتنينج إلى USB"
+                },
+                {
+                    "count": 1,
+                    "code": "3.5_mm",
+                    "name": "3.5 ملم"
+                },
+                {
+                    "count": 1,
+                    "code": "mini_usb",
+                    "name": "Mini USB"
+                }
+            ]
+        },
+        {
+            "code": "operating_system_version",
+            "name": "إصدار نظام التشغيل",
+            "type": "multiselect",
+            "data": [
+                {
+                    "count": 88,
+                    "code": "marshmallow",
+                    "name": "مارشملو"
+                },
+                {
+                    "count": 29,
+                    "code": "nougat",
+                    "name": "نوغا"
+                },
+                {
+                    "count": 27,
+                    "code": "oreo",
+                    "name": "Oreo"
+                },
+                {
+                    "count": 20,
+                    "code": "kitkat",
+                    "name": "كيت كات"
+                },
+                {
+                    "count": 16,
+                    "code": "lollipop",
+                    "name": "لوليبوب"
+                },
+                {
+                    "count": 13,
+                    "code": "pie",
+                    "name": "Pie"
+                },
+                {
+                    "count": 3,
+                    "code": "android_10",
+                    "name": "أندرويد 10"
+                },
+                {
+                    "count": 3,
+                    "code": "q",
+                    "name": "Q"
+                },
+                {
+                    "count": 1,
+                    "code": "gingerbread",
+                    "name": "جنجر بريد"
+                },
+                {
+                    "count": 1,
+                    "code": "ios_11",
+                    "name": "الإصدار 11 من نظام التشغيل iOS"
+                },
+                {
+                    "count": 1,
+                    "code": "jelly_bean",
+                    "name": "جيلي Bean"
+                }
+            ]
+        },
+        {
+            "code": "partner",
+            "name": "البائع",
+            "type": "multiselect",
+            "data": [
+                {
+                    "name": "إكسترا",
+                    "code": "p_10555",
+                    "count": 66
+                },
+                {
+                    "name": "نون",
+                    "code": "p_1",
+                    "count": 36
+                },
+                {
+                    "name": "اقل تكلفة",
+                    "code": "p_19869",
+                    "count": 72
+                },
+                {
+                    "name": "GENERAL TECHNOLOGY",
+                    "code": "p_13069",
+                    "count": 68
+                },
+                {
+                    "name": "Puretic",
+                    "code": "p_13852",
+                    "count": 62
+                },
+                {
+                    "name": "Jeddah-Shop",
+                    "code": "p_19358",
+                    "count": 48
+                },
+                {
+                    "name": "Range Phone",
+                    "code": "p_27295",
+                    "count": 39
+                },
+                {
+                    "name": "CITY PLATINUM",
+                    "code": "p_18005",
+                    "count": 38
+                },
+                {
+                    "name": "Every time",
+                    "code": "p_26305",
+                    "count": 32
+                },
+                {
+                    "name": "NO TAX SHOP",
+                    "code": "p_12187",
+                    "count": 26
+                },
+                {
+                    "name": "smart cube telecom",
+                    "code": "p_13382",
+                    "count": 25
+                },
+                {
+                    "name": "AIC Life Style Tech",
+                    "code": "p_22959",
+                    "count": 25
+                },
+                {
+                    "name": "ALNouR Technology",
+                    "code": "p_11538",
+                    "count": 23
+                },
+                {
+                    "name": "orange",
+                    "code": "p_19014",
+                    "count": 19
+                },
+                {
+                    "name": "MW-Tech-Store",
+                    "code": "p_22179",
+                    "count": 19
+                },
+                {
+                    "name": "مؤسسة نغمة العرب للتجارة",
+                    "code": "p_22953",
+                    "count": 19
+                },
+                {
+                    "name": "danwell",
+                    "code": "p_20122",
+                    "count": 18
+                },
+                {
+                    "name": "BlueStar",
+                    "code": "p_13160",
+                    "count": 17
+                },
+                {
+                    "name": "بندل اوفر",
+                    "code": "p_14328",
+                    "count": 17
+                },
+                {
+                    "name": "زمان",
+                    "code": "p_25580",
+                    "count": 16
+                },
+                {
+                    "name": "Silicon Valley Computers",
+                    "code": "p_14517",
+                    "count": 15
+                },
+                {
+                    "name": "صندوقي",
+                    "code": "p_26763",
+                    "count": 15
+                },
+                {
+                    "name": "Advanced Phones Trading Est",
+                    "code": "p_19968",
+                    "count": 14
+                },
+                {
+                    "name": "MAQT",
+                    "code": "p_15438",
+                    "count": 13
+                },
+                {
+                    "name": "Mione Official",
+                    "code": "p_13985",
+                    "count": 12
+                },
+                {
+                    "name": "smart-tek",
+                    "code": "p_17389",
+                    "count": 12
+                },
+                {
+                    "name": "Globel market",
+                    "code": "p_23203",
+                    "count": 12
+                },
+                {
+                    "name": "الاتصالات الحديثة",
+                    "code": "p_26591",
+                    "count": 10
+                },
+                {
+                    "name": "KUBE",
+                    "code": "p_11661",
+                    "count": 9
+                },
+                {
+                    "name": "AL-Harthi Telecom",
+                    "code": "p_17978",
+                    "count": 9
+                },
+                {
+                    "name": "firstcall",
+                    "code": "p_22174",
+                    "count": 9
+                },
+                {
+                    "name": "سيريانا",
+                    "code": "p_24228",
+                    "count": 8
+                },
+                {
+                    "name": "صفقة جيدة",
+                    "code": "p_25400",
+                    "count": 8
+                },
+                {
+                    "name": "store111",
+                    "code": "p_27941",
+                    "count": 8
+                },
+                {
+                    "name": "Cell Mart",
+                    "code": "p_19891",
+                    "count": 7
+                },
+                {
+                    "name": "مدى الهواتف",
+                    "code": "p_21480",
+                    "count": 7
+                },
+                {
+                    "name": "M.Q",
+                    "code": "p_25412",
+                    "count": 7
+                },
+                {
+                    "name": "Azer",
+                    "code": "p_14704",
+                    "count": 6
+                },
+                {
+                    "name": "Marka-vip",
+                    "code": "p_20294",
+                    "count": 6
+                },
+                {
+                    "name": "توب - تيك",
+                    "code": "p_1108",
+                    "count": 5
+                }
+            ]
+        }
+    ],
+    "search": {
+        "brand": [],
+        "category": [
+            "electronics-and-mobiles/computers-and-accessories/tablets"
+        ],
+        "filterKey": [],
+        "f": {},
+        "sort": {
+            "by": "popularity",
+            "dir": "desc"
+        },
+        "limit": 50,
+        "page": 1
+    },
+    "hits": [
+        {
+            "offer_code": "e1d4dd1219fb7cdd",
+            "sku": "N27170168A",
+            "sku_config": "N27170168A",
+            "brand": "سامسونج",
+            "name": "جهاز جالاكسي تاب A ‏(2019) مقاس 10.1 بوصة، ذاكرة داخلية 32 جيجابايت، ذاكرة رام 2 جيجابايت، مزود بخاصية Wi-Fi، يدعم تقنية 4G LTE، أسود ",
+            "plp_specifications": {},
+            "price": 1299,
+            "sale_price": 825,
+            "url": "galaxy-tab-a-2019-10-1-inch-32gb-2gb-ram-wi-fi-4g-lte-black",
+            "image_key": "v1561561046/N27170168A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "a7bedaeda109c93a",
+            "sku": "N29986101A",
+            "sku_config": "N29986101A",
+            "brand": "سامسونج",
+            "name": "Galaxy Tab A 8.0Inch, 32GB, Wi-Fi, Black ",
+            "plp_specifications": {},
+            "price": 549,
+            "sale_price": null,
+            "url": "galaxy-tab-a-8-0inch-32gb-wi-fi-black",
+            "image_key": "v1605814225/N29986101A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "ec74143c8507d1dd",
+            "sku": "N29986102A",
+            "sku_config": "N29986102A",
+            "brand": "سامسونج",
+            "name": "جالاكسي تاب A (2019) مقاس 8.0 بوصة، سعة 32 جيجابايت، رامات 2 جيجابايت، يدعم اتصال الواي فاي وتقنية 4G LTE، لون فضي ",
+            "plp_specifications": {},
+            "price": 599,
+            "sale_price": null,
+            "url": "galaxy-tab-a-2019-8-0inch-2gb-ram-32gb-4g-lte-wi-fi-silver",
+            "image_key": "v1605814223/N29986102A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f86d381d20e05f0d",
+            "sku": "N29806822A",
+            "sku_config": "N29806822A",
+            "brand": "سامسونج",
+            "name": "Galaxy Tab A 8.0Inch, 32GB, Wi-Fi, Silver Grey ",
+            "plp_specifications": {},
+            "price": 549,
+            "sale_price": null,
+            "url": "galaxy-tab-a-8-0inch-32gb-wi-fi-silver-grey",
+            "image_key": "v1605814242/N29806822A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "cd6c3b024b1c4ccb",
+            "sku": "N31430604A",
+            "sku_config": "N31430604A",
+            "brand": "سامسونج",
+            "name": "Galaxy Tab A 10.1Inch, 32GB, Wi-Fi, Gold ",
+            "plp_specifications": {},
+            "price": 1069,
+            "sale_price": 1010,
+            "url": "galaxy-tab-a-10-1inch-32gb-wi-fi-gold",
+            "image_key": "v1605814241/N31430604A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "b0ecdd489a94da7e",
+            "sku": "N40576172A",
+            "sku_config": "N40576172A",
+            "brand": "أبل",
+            "name": "جهاز آي باد - 2020 (الجيل الثامن) بشاشة مقاس 10.2 بوصة وذاكرة داخلية سعة 128 جيجابايت ومزود بخاصية واي فاي مع تطبيق فايس تايم لون رمادي فلكي - مواصفات الشرق الأوسط ",
+            "plp_specifications": {},
+            "price": 1949,
+            "sale_price": null,
+            "url": "ipad-2020-8th-generation-10-2inch-128gb-wifi-space-gray-with-facetime-middle-east-specs",
+            "image_key": "v1605814231/N40576172A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ],
+            "catalog_tag_style": "default",
+            "catalog_tag_type": "yellow",
+            "catalog_tag": "آخر ما وصلنا"
+        },
+        {
+            "offer_code": "f994d3f86037822f",
+            "sku": "N38450505A",
+            "sku_config": "N38450505A",
+            "brand": "هواوي",
+            "name": "جهاز ميت باد T8 بشاشة 8 بوصات، ذاكرة داخلية سعة 16 جيجابايت، يدعم تقنية واي فاي و4G LTE، لون أزرق ديب سي ",
+            "plp_specifications": {},
+            "price": 429,
+            "sale_price": null,
+            "url": "matepad-t8-8-inch-16gb-wi-fi-4g-lte-deepsea-blue",
+            "image_key": "v1591012906/N38450505A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "db74eb98de8e511d",
+            "sku": "N38340666A",
+            "sku_config": "N38340666A",
+            "brand": "هواوي",
+            "name": "جهاز ميتباد T8 بشاشة مقاس 8 بوصة، ذاكرة رام 2 جيجابايت وذاكرة تخزين سعة 16 جيجابايت، ويدعم تقنية الواي فاي، لون أزرق ديب سي ",
+            "plp_specifications": {},
+            "price": 399,
+            "sale_price": null,
+            "url": "matepad-t8-8-inch-2gb-ram-16gb-wi-fi-deepsea-blue",
+            "image_key": "v1590405947/N38340666A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ],
+            "catalog_tag_style": "default",
+            "catalog_tag_type": "yellow",
+            "catalog_tag": "آخر ما وصلنا"
+        },
+        {
+            "offer_code": "d1655dc15dfa0bea",
+            "sku": "N36311135A",
+            "sku_config": "N36311135A",
+            "brand": "آي لايف",
+            "name": "جهاز تابليت مقاس 7 بوصة بذاكرة رام سعة 1 جيجابايت وذاكرة داخلية سعة 16 جيجابايت، مزود بتقنية الواي فاي، بلون أسود، طراز K3801 ",
+            "plp_specifications": {},
+            "price": 189,
+            "sale_price": 149,
+            "url": "k3801-tablet-7-inch-1gb-ram-16gb-wi-fi-black",
+            "image_key": "v1585303114/N36311135A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "e8c9dd9797bb1caa",
+            "sku": "N22808716A",
+            "sku_config": "N22808716A",
+            "brand": "أبل",
+            "name": "iPad Mini 2019 (5th Generation) With FaceTime 7.9inch, 64GB, Wi-Fi, Gold ",
+            "plp_specifications": {},
+            "price": 1649,
+            "sale_price": 1619,
+            "url": "ipad-mini-2019-5th-generation-with-facetime-7-9inch-64gb-wi-fi-gold",
+            "image_key": "v1605814239/N22808716A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f167f4162765769e",
+            "sku": "N36311136A",
+            "sku_config": "N36311136A",
+            "brand": "آي لايف",
+            "name": "جهاز تابلت K3801 بشاشة مقاس 7 بوصة، ذاكرة رام 1 جيجابايت، ذاكرة داخلية سعة 16 جيجابايت، واي فاي، لون فضي ",
+            "plp_specifications": {},
+            "price": 189,
+            "sale_price": 149,
+            "url": "k3801-tablet-7-inch-1gb-ram-16gb-wi-fi-silver",
+            "image_key": "v1585303117/N36311136A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "cc85e4108c8d8aec",
+            "sku": "N35648229A",
+            "sku_config": "N35648229A",
+            "brand": "أتتش",
+            "name": "هاتف X10 مقاس 7 بوصات ثنائي الشريحة، مع ذاكرة داخلية سعة 32 غيغابايت، بخاصية الواي فاي، يدعم تقنية 4G LTE، لون أزرق سماوي ",
+            "plp_specifications": {},
+            "price": 250,
+            "sale_price": 179,
+            "url": "x10-7-inch-dual-sim-32gb-wi-fi-4g-lte-cyan",
+            "image_key": "v1584968153/N35648229A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "a433fac35cb3bf1e",
+            "sku": "N17066659A",
+            "sku_config": "N17066659A",
+            "brand": "هواوي",
+            "name": "جهاز ميديا باد T5 (2018) بشاشة مقاس 10.1 بوصة، وذاكرة تخزين سعة 32 جيجابايت، وذاكرة رام سعة 3 جيجابايت، ويدعم خاصية واي فاي وتقنية 4G LTE، بلون أسود\n\n ",
+            "plp_specifications": {},
+            "price": 949,
+            "sale_price": 849,
+            "url": "mediapad-t5-2018-10-1-inch-32gb-3gb-ram-wi-fi-4g-lte-black",
+            "image_key": "v1539847001/N17066659A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "b5ba59dfd9e2539e",
+            "sku": "N40829837A",
+            "sku_config": "N40829837A",
+            "brand": "هواوي",
+            "name": "Matepad T10 9.7-Inch, 16GB, Wi-Fi, Deepsea Blue ",
+            "plp_specifications": {},
+            "price": 599,
+            "sale_price": 529,
+            "url": "matepad-t10-9-7-inch-16gb-wi-fi-deepsea-blue",
+            "image_key": "v1605814263/N40829837A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ],
+            "catalog_tag_style": "default",
+            "catalog_tag_type": "Yellow",
+            "catalog_tag": "آخر ما وصلنا"
+        },
+        {
+            "offer_code": "f5b4307326e9615f",
+            "sku": "N18499721A",
+            "sku_config": "N18499721A",
+            "brand": "هواوي",
+            "name": "جهاز ميديا باد T3 10 (2017) بشاشة مقاس 9.6 بوصة، وذاكرة تخزين سعة 16 جيجابايت وذاكرة رام سعة 2 جيجابايت، ويدعم خاصية واي فاي، بلون رمادي فلكي ",
+            "plp_specifications": {},
+            "price": 699,
+            "sale_price": null,
+            "url": "mediapad-t3-10-2017-9-6-inch-16gb-2gb-ram-wi-fi-space-grey",
+            "image_key": "v1563796091/N18499721A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "bc642b038697fa9d",
+            "sku": "N27170591A",
+            "sku_config": "N27170591A",
+            "brand": "هواوي",
+            "name": "تابليت ميدياباد M5 لايت بشاشة مقاس 8 بوصة وذاكرة داخلية سعة 32 جيجابايت ويدعم تقنية الواي فاي ويدعم تقنية 4G LTE لون رمادي ",
+            "plp_specifications": {},
+            "price": 999,
+            "sale_price": 649,
+            "url": "mediapad-m5-lite-8-inch-32gb-wi-fi-4g-lte-grey",
+            "image_key": "v1605814266/N27170591A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "ea4e5f816331a45b",
+            "sku": "N35146096A",
+            "sku_config": "N35146096A",
+            "brand": "إس كولور",
+            "name": "تابلت بشاشة مقاس 10.1 بوصات، بشريحتين وذاكرة رام 4 جيجابايت وذاكرة داخلية 64 جيجابايت، يدعم تقنية 4G LTE، بخاصية الواي فاي، طراز U100، لون فضي ",
+            "plp_specifications": {},
+            "price": 394,
+            "sale_price": null,
+            "url": "u100-10-1-inch-tablet-dual-sim-4gb-ram-64gb-4g-lte-wi-fi-silver",
+            "image_key": "v1582700221/N35146096A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f10cc2f4412e15af",
+            "sku": "N33460672A",
+            "sku_config": "N33460672A",
+            "brand": "هواوي",
+            "name": "جهاز تابلت ميدياباد M5 لايت، بشاشة مقاس 10.1 بوصة، ذاكرة داخلية سهة 64 جيجابايت، يدعم تقنية واي فاي، 4G LTE بلون رمادي فلكي ",
+            "plp_specifications": {},
+            "price": 1319,
+            "sale_price": 1169,
+            "url": "mediapad-m5-lite-10-1-inch-64gb-wi-fi-4g-lte-space-gray",
+            "image_key": "v1605814296/N33460672A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "cee602914fa1aead",
+            "sku": "N27641517A",
+            "sku_config": "N27641517A",
+            "brand": "لينوفو",
+            "name": "تاب ‏E7 إسينشال إصدار 2018 بشاشة مقاس 7 بوصات مزود بسعة تخزين 16 جيجابايت وذاكرة رام 1 جيجابايت وواي فاي ويدعم 3G، لون أسود أردوازي ",
+            "plp_specifications": {},
+            "price": 399,
+            "sale_price": 340,
+            "url": "tab-e7-2018-7inch-16gb-1gb-ram-wi-fi-3g-slate-black",
+            "image_key": "v1562749070/N27641517A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f644d249e84f536a",
+            "sku": "N40450260A",
+            "sku_config": "N40450260A",
+            "brand": "هواوي",
+            "name": "جهاز ميت باد T10S مقاس 10.1 بوصة بذاكرة رام سعة 2 جيجابايت وذاكرة داخلية سعة 32 جيجابايت مزود بتقنية واي فاي بلون أزرق ديب سي ",
+            "plp_specifications": {},
+            "price": 749,
+            "sale_price": 679,
+            "url": "matepad-t10s-10-1-inch-2gb-ram-32gb-wi-fi-deepsea-blue",
+            "image_key": "v1600060923/N40450260A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f1120f84ebfed8ba",
+            "sku": "N26850450A",
+            "sku_config": "N26850450A",
+            "brand": "إس كولور",
+            "name": "جهاز لوحي U706 بمقاس 7 بوصة وذاكرة داخلية 16 جيجابايت ثنائي الشريحة ومزود بخاصية الواي فاي ويدعم خاصية 4G LTE، لون ذهبي ",
+            "plp_specifications": {},
+            "price": 299,
+            "sale_price": 175,
+            "url": "u706-7-inch-16gb-dual-sim-wi-fi-4g-lte-gold",
+            "image_key": "v1560747259/N26850450A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f78771eaf6b31daf",
+            "sku": "N14964746A",
+            "sku_config": "N14964746A",
+            "brand": "سي آيديا",
+            "name": "تابليت CM10 بشاشة مقاس 7 بوصة وذاكرة داخلية سعة 8 جيجابايت ويدعم خاصية الواي فاي، لون أبيض - 2018 ",
+            "plp_specifications": {},
+            "price": 149,
+            "sale_price": 111,
+            "url": "cm10-7-inch-8gb-wi-fi-white-2018",
+            "image_key": "v1527748432/N14964746A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "bb9b756d1905911e",
+            "sku": "N26850453A",
+            "sku_config": "N26850453A",
+            "brand": "إس كولور",
+            "name": "جهاز لوحي U706 بمقاس 7 بوصة وذاكرة داخلية سعة 16 جيجابايت ثنائي الشريحة ومزود بخاصية الواي فاي ويدعم خاصية 4G LTE، لون أزرق أرجواني ",
+            "plp_specifications": {},
+            "price": 219,
+            "sale_price": 187,
+            "url": "u706-7-inch-16gb-dual-sim-wi-fi-4g-lte-deep-blue-purple",
+            "image_key": "v1560747258/N26850453A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "abc640196eb3985f",
+            "sku": "N13037815A",
+            "sku_config": "N13037815A",
+            "brand": "أتتش",
+            "name": "جهاز تابلت A7 بلس بشاشة مقاس 7 بوصة، بشريحتين، ذاكرة داخلية سعة 8 جيجابايت، ذاكرة رام 1 جيجابايت، واي فاي، يدعم تقنية 4G، لون ذهبي ",
+            "plp_specifications": {},
+            "price": 165,
+            "sale_price": 159,
+            "url": "a7-plus-7inch-dual-sim-16gb-1gb-ram-wi-fi-4g-lte-gold",
+            "image_key": "v1515304078/N13037815A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "b5ab1eee492a666c",
+            "sku": "N37445236A",
+            "sku_config": "N37445236A",
+            "brand": "أتتش",
+            "name": "تابلت بشريحتين طراز A102، بشاشة 10.1 بوصات وذاكرة داخلية 64 جيجابايت وذاكرة رام 4 جيجابايت وخاصية الواي فاي، يدعم تقنية 4G LTE، لون أزرق ",
+            "plp_specifications": {},
+            "price": 349,
+            "sale_price": 309,
+            "url": "a102-10-1-inch-dual-sim-64gb-4gb-ram-wi-fi-4g-lte-blue",
+            "image_key": "v1587721781/N37445236A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "fcc0444e9a1bc1bd",
+            "sku": "N12460683A",
+            "sku_config": "N12460683A",
+            "brand": "أتتش",
+            "name": "تابلت طراز Q19، بشاشة 7 بوصات وذاكرة داخلية 8 جيجابايت وذاكرة رام 1 جيجابايت وخاصية الواي فاي، لون وردي ",
+            "plp_specifications": {},
+            "price": 225,
+            "sale_price": 129.8,
+            "url": "q19-7inch-8gb-1gb-ram-wi-fi-pink",
+            "image_key": "v1514889106/N12460683A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "ff87c5b292cee98c",
+            "sku": "N40450261A",
+            "sku_config": "N40450261A",
+            "brand": "هواوي",
+            "name": "جهاز ميت باد T10S مقاس 10.1 بوصة وذاكرة رام سعة 3 جيجابايت وذاكرة داخلية سعة 64 جيجابايت ويدعم تقنية 4G LTE بلون أزرق ديب سي ",
+            "plp_specifications": {},
+            "price": 904,
+            "sale_price": 849,
+            "url": "matepad-t10s-10-1-inch-3gb-ram-64gb-4g-lte-deepsea-blue",
+            "image_key": "v1600060923/N40450261A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ],
+            "catalog_tag_style": "default",
+            "catalog_tag_type": "Yellow",
+            "catalog_tag": "خصم 50 باستخدام كود: كثرها\t"
+        },
+        {
+            "offer_code": "b231ec82f950d68c",
+            "sku": "N38450592A",
+            "sku_config": "N38450592A",
+            "brand": "هواوي",
+            "name": "Matepad 10.4-Inch, 64GB, 4G LTE, Midnight Grey ",
+            "plp_specifications": {},
+            "price": 1259,
+            "sale_price": null,
+            "url": "matepad-10-4-inch-64gb-4g-lte-midnight-grey",
+            "image_key": "v1605814263/N38450592A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "d427811994ff715b",
+            "sku": "N26850451A",
+            "sku_config": "N26850451A",
+            "brand": "إس كولور",
+            "name": "جهاز لوحي U706 بمقاس 7 بوصة وذاكرة داخلية 16 جيجابايت ثنائي الشريحة ومزود بخاصية الواي فاي ويدعم خاصية 4G LTE، لون أسود ",
+            "plp_specifications": {},
+            "price": 219,
+            "sale_price": 189,
+            "url": "u706-7-inch-16gb-dual-sim-wi-fi-4g-lte-black",
+            "image_key": "v1560747259/N26850451A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "b9fc23594f222d6a",
+            "sku": "N37806962A",
+            "sku_config": "N37806962A",
+            "brand": "لينوفو",
+            "name": "M10 10.1-Inch, 32 GB, Wi-Fi, Slate Black ",
+            "plp_specifications": {},
+            "price": 749,
+            "sale_price": 684,
+            "url": "m10-10-1-inch-32-gb-wi-fi-slate-black",
+            "image_key": "v1605814281/N37806962A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "bf2481fbeb0b9fcd",
+            "sku": "N30344389A",
+            "sku_config": "N30344389A",
+            "brand": "إس كولور",
+            "name": "جهاز U707 اللوحي مقاس 7 بوصة، ثنائي الشريحة وبذاكرة داخلية 16 جيجابايت وذاكرة رام 2 جيجابايت يدعم تقنية 4G LTE، لون أسود ",
+            "plp_specifications": {},
+            "price": 209,
+            "sale_price": 184,
+            "url": "u707-dual-sim-tablet-7-inch-16gb-2gb-ram-4g-lte-black",
+            "image_key": "v1569408280/N30344389A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "c7b65ffed951e13b",
+            "sku": "N36343478A",
+            "sku_config": "N36343478A",
+            "brand": "أبل",
+            "name": "آي باد برو مع تطبيق فيس تايم بشاشة مقاس 11 بوصة، ذاكرة داخلية سعة 128 جيجابايت، واي فاي، رمادي فضائي ",
+            "plp_specifications": {},
+            "price": 4599,
+            "sale_price": 4299,
+            "url": "ipad-pro-with-facetime-11-inch-128gb-wi-fi-space-grey",
+            "image_key": "v1603805694/N36343478A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "dab1d152cbb6242a",
+            "sku": "N25439994A",
+            "sku_config": "N25439994A",
+            "brand": "سامسونج",
+            "name": "جهاز جالاكسي تاب A ‏(2019) مقاس 10.1 بوصة، ذاكرة داخلية 32 جيجابايت، ذاكرة رام 2 جيجابايت، مزود بخاصية Wi-Fi، أسود ",
+            "plp_specifications": {},
+            "price": 999,
+            "sale_price": 799,
+            "url": "galaxy-tab-a-2019-10-1-inch-32gb-2gb-ram-wi-fi-black",
+            "image_key": "v1557487198/N25439994A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f1f044f1f9e4922f",
+            "sku": "N34199945A",
+            "sku_config": "N34199945A",
+            "brand": "إس كولور",
+            "name": "تابلت مقاس 7 بوصات بشريحتين وذاكرة رام سعة 2 جيجابايت وذاكرة داخلية سعة 16 جيجابايت ومزود بتقنية 4G LTE، طراز U703، لون أرجواني ",
+            "plp_specifications": {},
+            "price": 179,
+            "sale_price": 175,
+            "url": "u703-tablet-7-inch-dual-sim-2gb-ram-16gb-4g-lte-purple",
+            "image_key": "v1580711689/N34199945A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "af13b54148e0a15a",
+            "sku": "N14964749A",
+            "sku_config": "N14964749A",
+            "brand": "سي آيديا",
+            "name": "تابليت CM10 بشاشة مقاس 7 بوصة وذاكرة داخلية سعة 8 جيجابايت ويدعم خاصية الواي فاي، لون وردي ",
+            "plp_specifications": {},
+            "price": 149,
+            "sale_price": 117,
+            "url": "cm10-7-inch-8gb-wi-fi-pink",
+            "image_key": "v1527748436/N14964749A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "bcf8bf9d61e1f0af",
+            "sku": "N14964748A",
+            "sku_config": "N14964748A",
+            "brand": "سي آيديا",
+            "name": "تابليت CM10 بشاشة مقاس 7 بوصة وذاكرة داخلية سعة 8 جيجابايت ويدعم خاصية الواي فاي بلون ذهبي ",
+            "plp_specifications": {},
+            "price": 148,
+            "sale_price": 111,
+            "url": "cm10-7-inch-8gb-wi-fi-gold",
+            "image_key": "v1527748434/N14964748A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "d34f783e8aede5ef",
+            "sku": "N14964750A",
+            "sku_config": "N14964750A",
+            "brand": "سي آيديا",
+            "name": "تابليت CM10 بشاشة مقاس 7 بوصة وذاكرة داخلية سعة 8 جيجابايت ويدعم خاصية الواي فاي، لون أرجواني ",
+            "plp_specifications": {},
+            "price": 149,
+            "sale_price": 111,
+            "url": "cm10-7inch-8gb-wi-fi-purple",
+            "image_key": "v1527748435/N14964750A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "a71cfc2a36fdd19d",
+            "sku": "N14964745A",
+            "sku_config": "N14964745A",
+            "brand": "سي آيديا",
+            "name": "تابليت CM10 بشاشة مقاس 7 بوصة وذاكرة داخلية سعة 8 جيجابايت ويدعم خاصية الواي فاي، لون أسود ",
+            "plp_specifications": {},
+            "price": 115.9,
+            "sale_price": 111,
+            "url": "cm10-7-inch-8gb-wi-fi-black",
+            "image_key": "v1527748432/N14964745A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "be21c93dade02c7e",
+            "sku": "N29907522A",
+            "sku_config": "N29907522A",
+            "brand": "أبل",
+            "name": "جهاز آي باد 2019 (الجيل السابع) مقاس 10.2 بوصة، بذاكرة داخلية سعة 128 جيجابايت يدعم خاصية واي فاي بلون رمادي فلكي مع تطبيق فيس تايم - نسخة عالمية ",
+            "plp_specifications": {},
+            "price": 2158,
+            "sale_price": 1910,
+            "url": "ipad-2019-7th-generation-10-2inch-128gb-wi-fi-space-gray-with-facetime-international-specs",
+            "image_key": "v1568371577/N29907522A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f1b8bb31b0cb611c",
+            "sku": "N31495300A",
+            "sku_config": "N31495300A",
+            "brand": "إس كولور",
+            "name": "تابلت U707 بشاشة 7 بوصة، ذاكرة رام 2 جيجابايت، ذاكرة داخلية 16 جيجابايت، يدعم تقنية 4G LTE، بلون أحمر ",
+            "plp_specifications": {},
+            "price": 219,
+            "sale_price": null,
+            "url": "u707-tablet-7-inch-2gb-ram-16gb-4g-lte-red",
+            "image_key": "v1572522927/N31495300A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "bf2d99d77c3d6c1c",
+            "sku": "N35146098A",
+            "sku_config": "N35146098A",
+            "brand": "إس كولور",
+            "name": "تابلت بشاشة مقاس 10.1 بوصات، بشريحتين وذاكرة رام 4 جيجابايت وذاكرة داخلية 64 جيجابايت، يدعم تقنية 4G LTE، بخاصية الواي فاي، طراز U100، لون أسود ",
+            "plp_specifications": {},
+            "price": 394,
+            "sale_price": null,
+            "url": "u100-10-1-inch-tablet-dual-sim-4gb-ram-64gb-4g-lte-wi-fi-black",
+            "image_key": "v1582700227/N35146098A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "c9cf5bb328f1b9aa",
+            "sku": "N14964747A",
+            "sku_config": "N14964747A",
+            "brand": "سي آيديا",
+            "name": "تابليت CM10 بشاشة مقاس 7 بوصة وذاكرة داخلية سعة 8 جيجابايت ويدعم خاصية الواي فاي، لون أزرق ",
+            "plp_specifications": {},
+            "price": 245,
+            "sale_price": 112,
+            "url": "cm10-7-inch-8gb-wi-fi-blue",
+            "image_key": "v1527748434/N14964747A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "d0453138fbb6230e",
+            "sku": "N17473074A",
+            "sku_config": "N17473074A",
+            "brand": "هواوي",
+            "name": "جهاز لوحي ميدياباد T3 - 10 بشاشة 9.6 بوصة وذاكرة داخلية 16 جيجابايت وذاكرة رام 2 جيجابايت وواي فاي، كما يدعم تقنية 4G LTE، بلون الرمادي الفضائي ",
+            "plp_specifications": {},
+            "price": 689,
+            "sale_price": null,
+            "url": "mediapad-t3-10-9-6-inch-16gb-2gb-ram-wi-fi-4g-lte-space-grey",
+            "image_key": "v1537187357/N17473074A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": []
+        },
+        {
+            "offer_code": "ae5e585c36f4161a",
+            "sku": "N31495299A",
+            "sku_config": "N31495299A",
+            "brand": "إس كولور",
+            "name": "تابلت U707 بشاشة 7 بوصة، ذاكرة رام 2 جيجابايت، ذاكرة داخلية 16 جيجابايت، يدعم تقنية 4G LTE، بلون ذهبي ",
+            "plp_specifications": {},
+            "price": 299,
+            "sale_price": 186,
+            "url": "u707-tablet-7-inch-2gb-ram-16gb-4g-lte-gold",
+            "image_key": "v1572522927/N31495299A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "e3703f114262351b",
+            "sku": "N26850454A",
+            "sku_config": "N26850454A",
+            "brand": "إس كولور",
+            "name": "جهاز لوحي U706 بمقاس 7 بوصة وذاكرة داخلية سعة 16 جيجابايت ثنائي الشريحة ومزود بخاصية الواي فاي ويدعم خاصية 4G LTE، لون أبيض وأزرق فاتح ",
+            "plp_specifications": {},
+            "price": 219,
+            "sale_price": 188,
+            "url": "u706-7-inch-16gb-dual-sim-wi-fi-4g-lte-white-light-blue",
+            "image_key": "v1560747259/N26850454A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "c5815c2b739883da",
+            "sku": "N25439997A",
+            "sku_config": "N25439997A",
+            "brand": "سامسونج",
+            "name": "تاب جالاكسي A بشاشة مقاس 10.1بوصة وسعة تخزين 32 جيجابايت، أسود (2019) يدعم تقنية 4G ",
+            "plp_specifications": {},
+            "price": 1199,
+            "sale_price": 879,
+            "url": "galaxy-tab-a-10-1-inch-32gb-4g-black-2019",
+            "image_key": "v1557487206/N25439997A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "ad40afce0ed84cea",
+            "sku": "N41674360A",
+            "sku_config": "N41674360A",
+            "brand": "إكسيد",
+            "name": "EX10S4 10inch, 32GB, Dual SIM, Wi-Fi, 4G, Silver/White ",
+            "plp_specifications": {},
+            "price": 998,
+            "sale_price": 599,
+            "url": "ex10s4-10inch-32gb-dual-sim-wi-fi-4g-silver-white",
+            "image_key": "v1604503665/N41674360A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "c62149faa470a9ee",
+            "sku": "N27281360A",
+            "sku_config": "N27281360A",
+            "brand": "مي وان",
+            "name": "جهاز لوحي مي باد بشاشة مقاس 10.1 بوصة لون ذهبي بذاكرة داخلية 32 جيجابايت ويدعم تقنية 4G LTE ",
+            "plp_specifications": {},
+            "price": 475,
+            "sale_price": null,
+            "url": "mi-pad-tablet-10-1inch-32gb-4g-lte-gold",
+            "image_key": "v1561626222/N27281360A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "a872ce3a34476fea",
+            "sku": "N39777731A",
+            "sku_config": "N39777731A",
+            "brand": "جيتوم",
+            "name": "J1 7inch, 16GB, 1GB RAM, Wi-Fi, Yellow With Microphone ",
+            "plp_specifications": {},
+            "price": 350,
+            "sale_price": 225,
+            "url": "j1-7inch-16gb-1gb-ram-wi-fi-yellow-with-microphone",
+            "image_key": "v1597664953/N39777731A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        },
+        {
+            "offer_code": "f1258cf75a67d24d",
+            "sku": "N28551074A",
+            "sku_config": "N28551074A",
+            "brand": "لينوسد",
+            "name": "جهاز لوحي للأطفال تاب3 مقاس 7 بوصة، سعة 16 جيجابايت، رامات 2 جيجابايت، يدعم اتصال الواي فاي، متعدد الألوان ",
+            "plp_specifications": {},
+            "price": 140,
+            "sale_price": null,
+            "url": "kids-tab3-7-inch-16gb-2gb-ram-wi-fi-multicolour",
+            "image_key": "v1563886577/N28551074A_1",
+            "is_buyable": true,
+            "product_badges": [],
+            "flags": [
+                "fbn"
+            ]
+        }
+    ],
+    "searchEngine": "solr-browsing",
+    "viewType": "grid",
+    "canonical_url": "/electronics-and-mobiles/computers-and-accessories/tablets",
+    "meta": {
+        "h1": "أجهزة التابلت",
+        "title": "تسوق أجهزة التابلت أونلاين في السعودية",
+        "desc": "أكبر تشكيلة من أجهزة التابلت أونلاين على نون في السعودية.  تسوق آمن، دفع عند الاستلام، شحن سريع، إرجاع مجاناً بسهولة، نوّنها الآن"
+    },
+    "cms": {
+        "data": [
+            {
+                "bgColor": "#f3f3f3",
+                "modules": [
+                    {
+                        "type": "bannerModuleStrip",
+                        "outerSpacing": {
+                            "top": 7,
+                            "bottom": 7
+                        },
+                        "numPerRow": 1,
+                        "banners": [
+                            {
+                                "linkUrl": "/emi",
+                                "imageUrl": "https://k.nooncdn.com/cms/pages/20200309/c127e68a1cad269bc0bb86fb5c14a83c/ar_mb-strip-01.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "productCarousel",
+                        "outerSpacing": {
+                            "top": 4,
+                            "bottom": 7
+                        },
+                        "productUrl": "/bestsellers-ksa-tablets-EL_01",
+                        "moduleHeader": {
+                            "titleText": "أفضل المنتجات",
+                            "linkText": "عرض الكل",
+                            "linkUrl": "/bestsellers-ksa-tablets-EL_01"
+                        }
+                    },
+                    {
+                        "type": "textLinks",
+                        "outerSpacing": {
+                            "top": 7,
+                            "bottom": 5
+                        },
+                        "titleText": "تسوق حسب الماركة",
+                        "links": [
+                            {
+                                "linkUrl": "/electronics-and-mobiles/computers-and-accessories/tablets/samsung",
+                                "linkText": "سامسونج"
+                            },
+                            {
+                                "linkUrl": "/electronics-and-mobiles/computers-and-accessories/tablets/apple",
+                                "linkText": "أبل"
+                            },
+                            {
+                                "linkUrl": "/electronics-and-mobiles/computers-and-accessories/tablets/huawei",
+                                "linkText": "هواوي"
+                            },
+                            {
+                                "linkUrl": "/electronics-and-mobiles/computers-and-accessories/tablets/wintouch",
+                                "linkText": "وينتاتش"
+                            },
+                            {
+                                "linkUrl": "/electronics-and-mobiles/computers-and-accessories/tablets/exceed",
+                                "linkText": "إكسيد أجهزة التابلت"
+                            },
+                            {
+                                "linkUrl": "/electronics-and-mobiles/computers-and-accessories/tablets/atouch",
+                                "linkText": "أتتش أجهزة التابلت"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "type": "catalog"
+}
